@@ -20,25 +20,33 @@
 ## 📍 Tirupati & Surroundings
 *Urban connectivity meets peaceful living.*
 
-* 🏙️ **Agasthya Enclave** ➤ [**📂 View Tirupati Files**](PASTE_TIRUPATI_DRIVE_LINK_HERE)
-* 🏘️ **PAKALA TOWNSHIP** ➤ [**📂 View Pakala Files**](PASTE_PAKALA_DRIVE_LINK_HERE)
+| Project Name | Location | Layout Documents |
+| :--- | :---: | :---: |
+| 🏙️ **Agasthya Enclave** | Tirupati | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_TIRUPATI_DRIVE_LINK_HERE) |
+| 🏘️ **PAKALA TOWNSHIP** | Pakala | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_PAKALA_DRIVE_LINK_HERE) |
+
 
 ---
 
 ## 🌳 Venkatagiri Region
 *Nature-friendly investments and garden layouts.*
 
-* 🌺 **Sri Srinivasa Gardens** ➤ [**📂 View Venkatagiri Files**](PASTE_VENKATAGIRI_DRIVE_LINK_HERE)
-* 🚜 **GIRI NANDANA GREEN FARMS** ➤ [**📂 View Venkatagiri Farms Files**](PASTE_VENKATAGIRI_FARMS_LINK_HERE)
+| Project Name | Location | Layout Documents |
+| :--- | :---: | :---: |
+| 🌺 **Sri Srinivasa Gardens** | Venkatagiri | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_VENKATAGIRI_DRIVE_LINK_HERE) |
+| 🚜 **GIRI NANDANA FARMS** | Venkatagiri | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_VENKATAGIRI_FARMS_LINK_HERE) |
 
 ---
 
 ## 🏭 Industrial & Highway Belts
 *High-growth corridors and industrial proximity.*
 
-* ⚓ **SAGARMALA KRISH CITY** ➤ [**📂 View Naidupeta Files**](PASTE_NAIDUPETA_DRIVE_LINK_HERE)
-* 🛣️ **HIGHWAY GREEN CITY** ➤ [**📂 View Rajampet Files**](PASTE_RAJAMPET_DRIVE_LINK_HERE)
+| Project Name | Location | Layout Documents |
+| :--- | :---: | :---: |
+| ⚓ **SAGARMALA KRISH CITY** | Naidupeta | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_NAIDUPETA_DRIVE_LINK_HERE) |
+| 🛣️ **HIGHWAY GREEN CITY** | Rajampet | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_RAJAMPET_DRIVE_LINK_HERE) |
 
+---
 ---
 
 <div align="center">
