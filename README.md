@@ -26,7 +26,7 @@
 | 🏘️ **PAKALA TOWNSHIP** | Pakala | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_PAKALA_DRIVE_LINK_HERE) |
 
 
----
+
 
 ## 🌳 Venkatagiri Region
 *Nature-friendly investments and garden layouts.*
@@ -36,7 +36,7 @@
 | 🌺 **Sri Srinivasa Gardens** | Venkatagiri | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_VENKATAGIRI_DRIVE_LINK_HERE) |
 | 🚜 **GIRI NANDANA FARMS** | Venkatagiri | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_VENKATAGIRI_FARMS_LINK_HERE) |
 
----
+
 
 ## 🏭 Industrial & Highway Belts
 *High-growth corridors and industrial proximity.*
@@ -46,7 +46,7 @@
 | ⚓ **SAGARMALA KRISH CITY** | Naidupeta | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_NAIDUPETA_DRIVE_LINK_HERE) |
 | 🛣️ **HIGHWAY GREEN CITY** | Rajampet | [![Download](https://img.shields.io/badge/View_Drive-4285F4?style=flat&logo=google-drive&logoColor=white)](PASTE_RAJAMPET_DRIVE_LINK_HERE) |
 
----
+
 ---
 
 <div align="center">
